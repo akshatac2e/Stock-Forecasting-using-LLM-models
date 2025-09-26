@@ -1,0 +1,2 @@
+sec-edgar-downloader==5.0.2
+chromadb==0.5.5
