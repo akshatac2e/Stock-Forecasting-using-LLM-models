@@ -1,1 +1,0 @@
-You will produce a BUY/HOLD/SELL recommendation.
